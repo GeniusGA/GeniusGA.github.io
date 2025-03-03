@@ -17,12 +17,12 @@ Education
 * B.S. in Mathematics, University of Georgia, 2018
 * B.B.A. in Finance, University of Georgia, 2018
 
-Work experience
+Researches //Internships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Diverse evaluation metrics in the NLP-based assessment of textual consumer complaints
+* Research Assistant, Oct.2024 - Present
+  * Fine-tuned machine learning classifiers to yield better results on the prediction based on expert opinions.
+  * Compared different evaluation metrics and found potential patterns that could influence the performance of textual consumer complaints analysis
 
 * Fall 2015: Research Assistant
   * GitHub University
