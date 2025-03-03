@@ -19,7 +19,9 @@ Education
 
 Researches //Internships
 ======
-* **Diverse evaluation metrics in the NLP-based assessment of textual consumer complaints**  &nbsp;&nbsp;&nbsp; **Oct.2024 - Present**
+* **Diverse evaluation metrics in the NLP-based assessment of textual consumer complaints**
+* Research Assistant &nbsp;&nbsp;&nbsp;  Oct.2024 - Present
+* Achieved:
   * Fine-tuned machine learning classifiers to yield better results on the prediction based on expert opinions.
   * Compared different evaluation metrics and found potential patterns that could influence the performance of textual consumer complaints analysis
 
