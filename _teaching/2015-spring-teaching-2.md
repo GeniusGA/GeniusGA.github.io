@@ -8,7 +8,7 @@ date: 2021 - 2025
 location: "London, ON"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Western University Ontario
 * SS 9861 Time Series Analysis, Winter 2025
 * SS 2141 Applied Probability and Statistics, Fall 2024
 * SS 2141 Applied Probability and Statistics, Summer 2024
@@ -19,8 +19,8 @@ This is a description of a teaching experience. You can use markdown like any ot
 * FM 2557 Financial Markets and Investments, Winter 2023
 * FM 3520 Financial Modelling, Fall 2022
 * AS 2553 Mathematics of Finance, Fall 2022
-* SS 2143, Winter 2022
-* SS 2141, Fall 2021
+* SS 2143 Applied Statistics and Data Analysis for Engineers, Winter 2022
+* SS 2141 Applied Probability and Statistics, Fall 2021
 
 Heading 1
 ======
