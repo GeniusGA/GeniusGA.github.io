@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Statistics, Financial Modelling,  Western University Ontario, 2025 (expected)
+* M.S.E. in Computer Science, Johns Hopkins University, 2021
+* M.S.E. in Applied Mathematics and Statistics, Johns Hopkins University, 2021
+* B.S. in Mathematics, University of Georgia, 2018
+* B.B.A. in Finance, University of Georgia, 2018
 
 Work experience
 ======
